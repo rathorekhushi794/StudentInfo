@@ -1,0 +1,13 @@
+# Maven target folder
+/target/
+
+# IDE files
+*.iml
+.idea/
+.vscode/
+
+# Logs
+*.log
+
+# Docker
+*.pid
